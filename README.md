@@ -1,5 +1,5 @@
 
-# 💰 Webfala Loan Eligibility Predictor
+# 💰 Webfala Loan Eligibility Predictor.
 
 An end-to-end Machine Learning web application that predicts whether a loan applicant is eligible for a loan based on personal and financial information.
 
